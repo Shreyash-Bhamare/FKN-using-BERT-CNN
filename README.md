@@ -80,7 +80,7 @@ pip install -r requirements.txt
  
 ### Running the Application
  
-#### Option 1: Streamlit Web Interface (Recommended) 🌐
+#### Option 1: Streamlit Web Interface (Recommended) 
 ```bash
 cd src
 streamlit run app.py
