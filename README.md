@@ -4,7 +4,7 @@
 
 **A Data and Vision-Driven Approach to Detecting Misinformation**
  
-[Features](#features) • [📊 Model Performance](#-model-performance) • [🚀 Quick Start](#-quick-start) • [📋 Dataset Information](#-dataset-information) • [🧠 Model Architecture](#-model-architecture) • [How It Works](#how-it-works)
+[Features](#features) • [📊 Model Performance](#-model-performance) • [🚀 Quick Start](#-quick-start) • [📋 Dataset Information](#-dataset-information) • [🧠 Model Architecture](#-model-architecture) • [🔍 How It Works](#how-it-works)
  
 </div>
 ---
